@@ -1,6 +1,6 @@
 # CNC Special Interest Group
 
-The CNC SIG is responsible for the maintenance, governance, and administration of the CNC routers, adjacent equipment, and space at denhac.
+The CNC SIG is responsible for the maintenance, governance, and administration of the CNC routers/mills, adjacent equipment, and space at denhac.
 
 The group will respond to requests from denhac members for future needs and will help create recommendations to the board that require funding in excess of the budget provided to the SIG by the denhac board of directors.
 
@@ -23,17 +23,17 @@ The CNC SIG exists to facilitate safe and effective usage of the CNC routing equ
 
 #### ***In-Scope***
 
-* Maintaining denhac-owned CNC routers and associated hardware including the computing infrastructure required to operate the machines
-* Resources for use and maintenance specific to the CNC routers such as workholding, calibration tools, etc
+* Maintaining denhac-owned CNC routers/mills and associated hardware including the computing infrastructure required to operate the machines
+* Resources for use and maintenance specific to the CNC routers/mills such as workholding, calibration tools, etc
 * Project support and collaboration with other sigs and future denhac events
-* Maintenance and Improvements to the CNC routers and related space within denhac
+* Maintenance and Improvements to the CNC routers/mills and related space within denhac
 * Responding to and managing the use of donated CNC routers and equipment
-* Responding to and managing the use of member-owned CNC routing equipment on loan to denhac
-* Addressing membership concerns and questions specific to equipment within the CNC router area
+* Responding to and managing the use of member-owned CNC routing/milling equipment on loan to denhac
+* Addressing membership concerns and questions specific to equipment within the CNC area
 * Managing the spending and allocation of SIG funds, as well as coordinating Board Requests for additional funds
-* Creating and teaching a comprehensive curriculum regarding safe and effective usage of the CNC routers to all interested and permitted members
+* Creating and teaching a comprehensive curriculum regarding safe and effective usage of the CNC routers/mills to all interested and permitted members
 * Defining the required knowledge needed for Authorized Trainers and Maintainers, as well as providing this knowledge to certify denhac members as Trainers and Maintainers of the CNC routers when appropriate
-* Defining policy regarding specific materials and end effectors that are approved for use with the CNC routers at denhac
+* Defining policy regarding specific materials and end effectors that are approved for use with the CNC routers/mills at denhac
 
 #### ***Out-of-Scope***
 
@@ -44,7 +44,7 @@ The CNC SIG exists to facilitate safe and effective usage of the CNC routing equ
 
 ## Organization Management
 
-SIG decisions will officially be made by majority vote between the SIG leads who should strongly take into consideration the sentiments of any denhac member with a special interest in the CNC routers on site, while ultimately acting in the best interests of denhac as a whole. SIG leads are encouraged to make decisions using majority votes from CNC SIG members. Decisions made by the CNC SIG leads can always be overridden by the denhac board of directors.
+SIG decisions will officially be made by majority vote between the SIG leads who should strongly take into consideration the sentiments of any denhac member with a special interest in the CNC routers/mills on site, while ultimately acting in the best interests of denhac as a whole. SIG leads are encouraged to make decisions using majority votes from CNC SIG members. Decisions made by the CNC SIG leads can always be overridden by the denhac board of directors.
 
 Amendments to this charter can be made during group meetings by vote between SIG members and Leads, or by the denhac board of directors at any time according to the rules in place for modifications to denhac's own bylaws.
 
